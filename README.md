@@ -26,7 +26,7 @@
     - Pull Requests
     - GitHub Projects
 - :tada:I'm proud to be one of GitHub's [Campus Advisors](https://education.github.com/teachers/advisors), currently the only one in Columbus, Ohio
-- :mortar_board:I'm currently working on learning Elixir and the Phoenix framework.  I'm loving how Elixir treats tests and uses pattern matching!
+- :mortar_board:I'm currently learning Elixir and the Phoenix framework.  I'm loving how Elixir treats tests and uses pattern matching!
 
                                      
 
