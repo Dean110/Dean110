@@ -1,5 +1,5 @@
 <h2 align="center">Benjamin Williams :wave:</h2>
-
+<table><tr><td>
 I'm currently working on developing developers at [WeCanCodeIt](https://wecancodeit.org/) as a Java Software Instructor, teaching:
 - Java 
   - Object Oriented Programming Fundamentals
@@ -20,7 +20,11 @@ I'm currently working on developing developers at [WeCanCodeIt](https://wecancod
   - Vanilla CSS Tools
   - Grid
   - Flexbox
-  - CSS Variables                                    
+  - CSS Variables
+</td>
+<td>
+I'm proud to be one of GitHub's [Campus Advisors](https://education.github.com/teachers/advisors).  Currently the only one in Columbus, Ohio</td>
+                                     
 ## [GitHub Campus Advisor](https://education.github.com/teachers/advisors)
 
 
