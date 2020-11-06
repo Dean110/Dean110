@@ -1,5 +1,11 @@
+<style>
+.container{
+    display:grid; 
+    grid-template-columns: 1fr 1fr;
+}
+</style>
 <h2 align="center">Benjamin Williams :wave:</h2>
-<div style="display:grid; grid-template-columns: 1fr 1fr;">
+<div class = "container">
     <div>
         <p>I'm currently working on developing developers at <a href="https://wecancodeit.org/" rel="nofollow">WeCanCodeIt</a> as a Java Software Instructor, teaching:</p>
         <ul>
