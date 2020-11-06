@@ -1,3 +1,4 @@
+![I love nachos!](./ben-nacho.jpg)
 <h2 align="center">Benjamin Williams :wave:</h2>
 
 - :factory:I'm currently working on developing developers at [WeCanCodeIt](https://wecancodeit.org/) as a Java Software Instructor, teaching:
