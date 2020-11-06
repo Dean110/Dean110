@@ -1,4 +1,4 @@
-# Benjamin Williams
+<h2 align="center">Benjamin Williams :wave:</h2>
 
 I'm currently working on developing developers at [WeCanCodeIt](https://wecancodeit.org/) as a Java Software Instructor, teaching:
 - Java 
