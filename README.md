@@ -1,5 +1,5 @@
 <h2 align="center">Benjamin Williams :wave:</h2>
-<table><tr style="display:grid; grid-template-columns: 1fr 1fr;"><td >
+<div style="display:grid; grid-template-columns: 1fr 1fr;"><div>
 <p>I'm currently working on developing developers at <a href="https://wecancodeit.org/" rel="nofollow">WeCanCodeIt</a> as a Java Software Instructor, teaching:</p>
 <ul>
 <li>Java
@@ -35,9 +35,9 @@
 </ul>
 </li>
 </ul>
-</td>
-<td >
-<p>I'm proud to be one of GitHub's <a href="https://education.github.com/teachers/advisors">Campus Advisors</a>, currently the only one in Columbus, Ohio</p></td>
+</div>
+<div>
+<p>I'm proud to be one of GitHub's <a href="https://education.github.com/teachers/advisors">Campus Advisors</a>, currently the only one in Columbus, Ohio</p></div></div>
                                      
 ## [GitHub Campus Advisor](https://education.github.com/teachers/advisors)
 
