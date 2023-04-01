@@ -1,6 +1,6 @@
 <h1 align="center">Benjamin Williams :wave:</h1>
 
-![I love nachos!](./ben-nacho.jpg)
+![I love nachos!](./nacho-banner.jpg)
 
 ## <h2>:factory: I'm currently working on a few things:</h2>
 
