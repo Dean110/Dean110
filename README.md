@@ -8,5 +8,9 @@
 <summary>Relaunching <a href="http://nachopowerrankings.com">NachoPowerRankings.com</a></summary>
 Stuff about npr.
 </details>
-- Figuring out how to leverage [Github CodeSpaces](https://github.com/features/codespaces) to make the process of learning how to be a professional developer more accessable to all.
-- Looking for my next professional position.
+<details>
+<summary>Figuring out how to leverage <a href="https://github.com/features/codespaces">Github CodeSpaces</a> to make the process of learning how to be a professional developer more accessable to all.</summary>
+</details>
+<details>
+<summary>Looking for my next professional position.</summary>
+</details>
