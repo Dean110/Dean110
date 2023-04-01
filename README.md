@@ -2,10 +2,10 @@
 
 ![I love nachos!](./ben-nacho.jpg)
 
-## <h2>:factory: I'm currently working on a few things</h2>
+## <h2>:factory: I'm currently working on a few things:</h2>
 
 <details>
-<summary>Relaunching [NachoPowerRankings.com](nachopowerrankings.com)</summary>
+<summary>Relaunching <a href="nachopowerrankings.com">NachoPowerRankings.com</a></summary>
 Stuff about npr.
 </details>
 - Figuring out how to leverage [Github CodeSpaces](https://github.com/features/codespaces) to make the process of learning how to be a professional developer more accessable to all.
